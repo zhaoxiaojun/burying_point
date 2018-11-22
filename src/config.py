@@ -9,7 +9,7 @@ import configparser
 import os
 import codecs
 
-class ConfigIni():
+class ConfigIni(object):
     """
     配置类
     """
@@ -95,8 +95,9 @@ class ConfigIni():
 
 
 if __name__ == "__main__":
-    print(ConfigIni().get_testcase_col())
-    print(eval(ConfigIni().get_testcase_col()))
-    print(eval(ConfigIni().get_TestEnvironment_Info("DEFAULT","send_emladdr")))
+    # print(ConfigIni().get_testcase_col())
+    # print(eval(ConfigIni().get_testcase_col()))
+    # print(eval(ConfigIni().get_TestEnvironment_Info("DEFAULT","send_emladdr")))
+    pass
 
 

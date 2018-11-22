@@ -6,11 +6,9 @@
 #author:kitzhao
 ########################################
 
-import src.config
 import json
-import src.testcase
-from src.common import *
-from src.common.EncryptLib import *
+from src.common.operate_FiddlerDatas import *
+
 
 class GongNengQu33168(object):
     """
@@ -18,6 +16,10 @@ class GongNengQu33168(object):
     """
     def __ini__(self):
         pass
+
+    def parseFiddlerData(self,data):
+        pass
+
 
     def parseExpectationForAssert(self,Expectation):
         """
@@ -40,7 +42,7 @@ class GongNengQu33168(object):
             if Response == "":
                 raise ValueError
             else:
-                ResponseDict = json.loads(Response.text)
+                ResponseDict = json.loads(Response)
             return ResponseDict
         except:
             return False

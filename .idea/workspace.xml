@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="887df5a6-2dea-4bc1-bac0-de533be0637f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1000.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1002.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1006.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1009.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1036.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1057.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1098.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1100.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1103.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1105.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1106.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1138.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1163.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1181.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1182.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1184.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1186.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1187.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1213.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1235.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1257.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1258.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1259.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1260.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1261.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1332.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1333.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1335.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1336.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1339.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1373.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1398.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1419.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1420.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1421.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1422.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1423.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1436.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1441.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1467.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1499.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1505.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1509.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1512.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1514.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1526.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1529.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/1542.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/2098.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/889.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/894.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/895.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/896.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/897.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/898.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/929.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/952.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/962.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/973.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/android_logs/997.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/3709.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/3833.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/3845.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/3855.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/3858.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/3861.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/3865.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4444.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4475.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4556.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4568.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4587.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4596.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4597.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4827.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/4915.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5260.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5324.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5329.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5333.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5339.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5341.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5343.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/5344.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.ini" afterPath="$PROJECT_DIR$/config.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fiddler_logs/iphone_logs/138.txt" afterPath="$PROJECT_DIR$/fiddler_logs/iphone_logs/138.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/operate_FiddlerDatas.py" afterPath="$PROJECT_DIR$/src/common/operate_FiddlerDatas.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -113,19 +26,29 @@
     <SUITE FILE_PATH="coverage/burying_point$config.coverage" NAME="config Coverage Results" MODIFIED="1542855687626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/burying_point$testcase__1_.coverage" NAME="testcase (1) Coverage Results" MODIFIED="1533796762500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/BuryingPoint$operateFile.coverage" NAME="operateFile Coverage Results" MODIFIED="1532915624154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/burying_point$operate_FiddlerDatas__2_.coverage" NAME="operate_FiddlerDatas (2) Coverage Results" MODIFIED="1542961691599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/common" />
+    <SUITE FILE_PATH="coverage/burying_point$operate_FiddlerDatas__2_.coverage" NAME="operate_FiddlerDatas (2) Coverage Results" MODIFIED="1542966682796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/common" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="operate_FiddlerDatas.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="operate_FiddlerDatas.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/common/operate_FiddlerDatas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="73" column="35" lean-forward="false" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+            <state relative-caret-position="336">
+              <caret line="76" column="15" lean-forward="true" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
               <folding>
                 <element signature="e#197#221#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="94.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fiddler_logs/android_logs/94.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="0" column="911" lean-forward="false" selection-start-line="0" selection-start-column="911" selection-end-line="0" selection-end-column="911" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,8 +66,8 @@
       <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            <state relative-caret-position="380">
+              <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -208,8 +131,8 @@
         <option value="$PROJECT_DIR$/src/operate_FiddlerDatas.py" />
         <option value="$PROJECT_DIR$/src/config.py" />
         <option value="$PROJECT_DIR$/src/v58_GongNengQu_33168/GongNengQu33168.py" />
-        <option value="$PROJECT_DIR$/config.ini" />
         <option value="$PROJECT_DIR$/src/common/operate_FiddlerDatas.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
       </list>
     </option>
   </component>
@@ -269,10 +192,6 @@
               <option name="myItemId" value="fiddler_logs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iphone_logs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -285,6 +204,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fiddler_logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android_logs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -688,7 +611,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fiddler_logs/android_logs/128.txt" />
     <entry file="file://$PROJECT_DIR$/fiddler_logs/android_logs/132.txt" />
     <entry file="file://$PROJECT_DIR$/fiddler_logs/android_logs/199.txt" />
     <entry file="file://$PROJECT_DIR$/fiddler_logs/android_logs/204.txt" />
@@ -752,19 +674,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="380">
+          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/operate_FiddlerDatas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="73" column="35" lean-forward="false" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        <state relative-caret-position="336">
+          <caret line="76" column="15" lean-forward="true" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
           <folding>
             <element signature="e#197#221#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiddler_logs/android_logs/94.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="0" column="911" lean-forward="false" selection-start-line="0" selection-start-column="911" selection-end-line="0" selection-end-column="911" />
+          <folding />
         </state>
       </provider>
     </entry>

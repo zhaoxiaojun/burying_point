@@ -49,15 +49,18 @@ class FiddlerData(object):
         """
         手机系统类型 ios or android 
         """
-        d = re.findall("(?<=sysdata\"\:).*(?=\,\"bizdata)", data)
-        return ((eval(d[0]))["clnt_tp"])
+        try:
+            d = re.findall("(?<=sysdata\"\:).*(?=\,\"bizdata)", data)
+            return ((eval(d[0]))["clnt_tp"])
+        except:
+            return False
 
     def analyze_androidData(self,data):
         """
         安卓的数据解析
         """
         try:
-            datalist = re.findall("(?<=info_customevent\":\[).*(?=\]\})", data)
+            datalist = re.findall("(?<=info_customevent\":\[)(.*?)(?=\]\,\"info_)", data)
             AndroidData = eval(datalist[0])
             return AndroidData
         except:
@@ -68,9 +71,9 @@ class FiddlerData(object):
         IOS的数据解析
         """
         try:
-            datalist = re.findall("(?<=info_customevent\":).*(?=\,\"info_page)", data)
+            datalist = re.findall("(?<=info_customevent\":\[)(.*?)(?=\])", data)
             IosData=eval(datalist[0])
-            return IosData
+            print(IosData)
         except:
             return False
 
@@ -79,27 +82,23 @@ class FiddlerData(object):
     def parseFiddlerData(self):
         for i in self.get_logfiles():
             with open((self.log_path + os.sep + i), 'r', encoding="utf-8") as f:
+                print(i)
                 data = self.url_decode(f.read())
                 system_type = self.get_iphoneSystemType(data)
                 if system_type == "android":
                     try:
                         list = self.analyze_androidData(data)
                         for a in list:
-                            print(i,a)
+                            print(i,type(a),a)
                     except:
                         False
-                elif system_type == "ios":
+                elif system_type == "iPhone":
                     try:
                         list = self.analyze_iosData(data)
                         for b in list:
                             print(b)
                     except:
                         False
-        #         print(type(datalist),datalist)
-                # if system_type == "android":
-                #     datalist = self.analyze_androidData(data)
-                # elif system_type == "ios":
-                #     datalist = self.analyze_iosData(data)
 
 
 if __name__ == "__main__":

@@ -73,7 +73,7 @@ class FiddlerData(object):
         try:
             datalist = re.findall("(?<=info_customevent\":\[)(.*?)(?=\])", data)
             IosData=eval(datalist[0])
-            print(IosData)
+            return IosData
         except:
             return False
 
@@ -82,28 +82,28 @@ class FiddlerData(object):
     def parseFiddlerData(self):
         for i in self.get_logfiles():
             with open((self.log_path + os.sep + i), 'r', encoding="utf-8") as f:
-                print(i)
                 data = self.url_decode(f.read())
                 system_type = self.get_iphoneSystemType(data)
                 if system_type == "android":
                     try:
                         list = self.analyze_androidData(data)
-                        for a in list:
-                            print(i,type(a),a)
+                        print(i,list)
+                        # for a in list:
+                        #     print(i,a)
                     except:
                         False
                 elif system_type == "iPhone":
                     try:
                         list = self.analyze_iosData(data)
-                        for b in list:
-                            print(b)
+                        print(i,list)
                     except:
                         False
 
 
 if __name__ == "__main__":
     a = FiddlerData()
-    a.parseFiddlerData()
+    b = a.parseFiddlerData()
+
 
 
 
